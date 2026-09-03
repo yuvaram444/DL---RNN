@@ -347,8 +347,8 @@ plt.show()
 
 # Step 11: Display Predictions
 
-print("\nName: DHINESHKUMAR L")
-print("Register Number: 212224230066")
+print("\nName: Yuvaram S")
+print("Register Number: 212224230315")
 
 print("\nPredictions on Test Data:\n")
 
