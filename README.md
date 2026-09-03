@@ -219,8 +219,8 @@ def train_model(
 
     train_losses = []
 
-    print("\nName: DHINESHKUMAR L")
-    print("Register Number: 212224230066")
+    print("\nName: Yuvaram S")
+    print("Register Number: 212224230315")
 
     print("\nTraining the RNN Model...\n")
 
