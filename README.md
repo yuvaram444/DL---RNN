@@ -1,7 +1,7 @@
 # DL- Developing a Recurrent Neural Network Model for Stock Prediction
-# Name:SANTHOSHKUMAR.P
+# Name:Yuvaram S
 
-# Register Number: 212224040295
+# Register Number: 212224230315
 ## AIM
 To develop a Recurrent Neural Network (RNN) model for predicting stock prices using historical closing price data.
 
